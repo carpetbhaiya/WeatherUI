@@ -68,5 +68,5 @@ flutter run
 ```
 
 ## ScreenShot
-<img src="Screenshot_20231107-145721.png" alt="Image" width="540" height="1200" />
+<img src="Screenshot_20231107-145721.png" alt="Image" width="270" height="600" />
 
