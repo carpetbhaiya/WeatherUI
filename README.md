@@ -30,7 +30,7 @@ To run this project, make sure you have the following software installed on your
 
 1. Clone this repository to your local machine:
 ```console
-git clone https://github.com/your-username/weather-ui-flutter.git
+git clone https://github.com/carpetbhaiya/WeatherUI.git
 ```
 2. Navigate to the project directory:
 ```console
